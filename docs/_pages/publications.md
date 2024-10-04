@@ -4,7 +4,7 @@ title:
 author_profile: true
 ---
 
-<ol reversed class="small">
+<ol class="small">
   <li>
     Danesh Zeynali, Emilia N Weyulu, Seifeddine Fathalli, Balakrishnan Chandrasekaran, Anja Feldmann: <br>
     <i>BBRv3 in the public Internet: a boon or a bane?</i><br>
