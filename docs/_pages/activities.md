@@ -26,7 +26,7 @@ author_profile: true
 <hr>
 
 <h3 id="talks">Talks</h3>
-<ol reversed class="small">
+<ol class="small">
 	<li>
 		<strong>PAM 2024</strong> Paper Presentation
 		<a href="https://inet-bbrv3eval.mpi-inf.mpg.de/">Project Website</a>
@@ -44,7 +44,7 @@ author_profile: true
 	</li>
 	<li>
 		<strong>SATNAC 2016</strong> Short Paper 
-		<a href="https://docs.google.com/presentation/d/1DYwyQMMZyK577-ssq9onwrxt76Uf-zUh/edit?usp=sharing&ouid=100238777063589196677&rtpof=true&sd=true">Slides</a>|
+		<a href="https://docs.google.com/presentation/d/1DYwyQMMZyK577-ssq9onwrxt76Uf-zUh/edit?usp=sharing&ouid=100238777063589196677&rtpof=true&sd=true">Slides</a>
 	</li>
 </ol>
 
