@@ -15,7 +15,7 @@ author_profile: true
 <h3 id="teaching">Teaching</h3>
 <ol reversed class="small">
 	<li>
-		<strong>Summer Semester 2019 - Current:</strong> Data Networks <br> Core course for Bachelor & Masters<a href="https://www.mpi-inf.mpg.de/departments/inet/teaching/data-networks-lecture-summer-2024">Course Website</a>
+		<strong>Summer Semester 2019 - Current:</strong> Data Networks <br> Core course for Bachelor & Masters. <a href="https://www.mpi-inf.mpg.de/departments/inet/teaching/data-networks-lecture-summer-2024">Course Website</a>
 	</li>
 	<li>
 		<strong>Winter Semester 2020 - Current:</strong> Hot Topics in Data Networks Seminar <br>
@@ -47,9 +47,6 @@ author_profile: true
 		<a href="https://docs.google.com/presentation/d/1DYwyQMMZyK577-ssq9onwrxt76Uf-zUh/edit?usp=sharing&ouid=100238777063589196677&rtpof=true&sd=true">Slides</a>|
 	</li>
 </ol>
-
-<hr>
-
 
 <hr>
 
