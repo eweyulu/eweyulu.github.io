@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -134,6 +134,8 @@ author:
   links            :
     - label: "MPII"
       url: "https://www.mpi-inf.mpg.de/departments/inet/people/emilia-ndilokelwa-weyulu/"
+    - label: "CV"
+      url: "files/weyulu_emilia_cv.pdf"
 
 
 # Reading Files
