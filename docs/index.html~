@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Ph.D. Researcher - Personal Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header img {
+            max-width: 150px;
+            border-radius: 50%;
+        }
+        h1 {
+            font-size: 2em;
+            color: #333;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <!-- Replace the src attribute with your image URL -->
+            <img src="emilia.jpg" alt="Your Profile Picture">
+            <h1>Network Systems Researcher</h1>
+        </div>
+
+        <div class="content">
+            <p>Final-year Ph.D. researcher in Internet transport protocols with the 
+            Internet Architecture group at the Max Planck Institute for Informatics. 
+            I designed and implemented a platform for evaluating Internet congestion 
+            control protocols (TCP) using empirical data from experimental and simulated 
+            network scenarios. My work focuses on optimizing network transport algorithms for efficient data transmission, 
+            reduced latency, and enhanced reliability.</p>
+
+            <p>Currently seeking research opportunities focused on advancing networking technologies, 
+            particularly in areas such as congestion control for low-latency, high-throughput applications.</p>
+        </div>
+    </div>
+
+</body>
+</html>
