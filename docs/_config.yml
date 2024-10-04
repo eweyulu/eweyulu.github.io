@@ -197,7 +197,10 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+# Add your custom stylesheet here
+assets:
+  css:
+    - /assets/css/main.scss
 
 # Outputting
 permalink: /:categories/:title/

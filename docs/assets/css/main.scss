@@ -6,3 +6,11 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Custom CSS to increase avatar size */
+.avatar {
+    width: 200px;  /* Adjust this value to change avatar size */
+    height: 200px; /* Adjust this value accordingly */
+    border-radius: 50%; /* Ensure it stays circular */
+  }
+  
