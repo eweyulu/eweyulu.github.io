@@ -56,4 +56,6 @@ Misc.
 ======
  In my spare time, I enjoy jogging, reading, hiking...<br>
 <br><br>
+<div>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=m4kwHMAFQqyxNRUgJsn_TRZzdXUUpUlk-kiSY_5rhJ4&cl=ffffff&w=a"></script>
+</div>
