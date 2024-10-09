@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year Ph.D. researcher in Internet transport protocols with the Internet Architecture group at the ([Max-Planck-Institut für Informatik](https://www.mpi-inf.mpg.de/home)) in Saarbrücken, Germany, advised by ([Prof. Anja Feldmann, Ph.D](https://www.mpi-inf.mpg.de/departments/inet/people/anja-feldmann/)). I am also affiliated with the ([Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/)). My research work focuses on optimizing network transport algorithms for efficient data transmission, reduced latency, and enhanced reliability.
+I am a final-year Ph.D. researcher in Internet transport protocols with the Internet Architecture group at the [Max-Planck-Institut für Informatik](https://www.mpi-inf.mpg.de/home) in Saarbrücken, Germany, advised by [Prof. Anja Feldmann, Ph.D](https://www.mpi-inf.mpg.de/departments/inet/people/anja-feldmann/). I am also affiliated with the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/). My research work focuses on optimizing network transport algorithms for efficient data transmission, reduced latency, and enhanced reliability.
 
 I am currently seeking research opportunities to deepen my expertise in networking technologies, particularly in congestion control and flow control for low-latency, high-throughput applications.
 
@@ -21,12 +21,12 @@ Education
 
 News
 ======
-* **06 June 2024:** Our paper "BBRv3 in the public Internet: a boon or a bane?" has been accepted to ([ANRW '24](https://www.irtf.org/anrw/2024/)), check out colleague Danesh's presentation ([here](https://www.youtube.com/watch?v=uKxLSAMey7I&ab_channel=IETF-InternetEngineeringTaskForce)) at t=38 minutes.
-* **15 April 2024:** Our paper from my Summer Internship at Huawei titled (["Exploring The Benefits of In-Band Service Routing"](https://eweyulu.github.io/files/weyulu-ifip-2024)) has been accepted to IFIP Networking 2024, check it out!!
+* **06 June 2024:** Our paper "BBRv3 in the public Internet: a boon or a bane?" has been accepted to [ANRW '24](https://www.irtf.org/anrw/2024/), check out colleague Danesh's presentation [here](https://www.youtube.com/watch?v=uKxLSAMey7I&ab_channel=IETF-InternetEngineeringTaskForce) at t=38 minutes.
+* **15 April 2024:** Our paper from my Summer Internship at Huawei titled ["Exploring The Benefits of In-Band Service Routing"](https://eweyulu.github.io/files/weyulu-ifip-2024) has been accepted to IFIP Networking 2024, check it out!!
 * **11 March 2024:** Our paper ["Promises and Potential of BBRv3"](https://eweyulu.github.io/files/zeynali-pam2024) won <span style="color:red">**Best Paper Award**</span> at [PAM '24](https://pam2024.cs.northwestern.edu/program/). Congratulations to my co-authors!!
 * **13 December 2023:** Our paper "Promises and Potential of BBRv3" has been accepted to [PAM '24](https://pam2024.cs.northwestern.edu/program/), for more details, check out our [project page](https://inet-bbrv3eval.mpi-inf.mpg.de/). 
 * **01 August 2023:** I am back in Saarbrücken at MPII after a fruitful summer Internship at Huawei MRC. 
-* **01 February 2023:** I have officially started my Summer Internship at the ([Huawei Munich Research Center](https://huaweiresearchcentergermanyaustria.teamtailor.com/) in Munich, Germany. I will be working on the ([ROSA project](https://www.ietf.org/archive/id/draft-trossen-rtgwg-rosa-02.html)) in the Applied Network Technology Laboratory.
+* **01 February 2023:** I have officially started my Summer Internship at the [Huawei Munich Research Center](https://huaweiresearchcentergermanyaustria.teamtailor.com/) in Munich, Germany. I will be working on the [ROSA project](https://www.ietf.org/archive/id/draft-trossen-rtgwg-rosa-02.html) in the Applied Network Technology Laboratory.
 
 Academic Service
 ======
@@ -56,6 +56,6 @@ Misc.
 ======
  In my spare time, I enjoy jogging, reading, hiking...<br>
 <br><br>
-<div>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=n&d=TkK2eJ11m3O6vUTwz881CpCP86xJPuA0Mgpse9p16bE"></script>
- </div>
+#<div>
+#<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=n&d=TkK2eJ11m3O6vUTwz881CpCP86xJPuA0Mgpse9p16bE"></script>
+#</div>
