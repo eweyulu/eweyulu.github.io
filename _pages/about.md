@@ -22,6 +22,8 @@ News
 * **01 August 2023:** I am back in Saarbrücken at MPII after a fruitful summer Internship at Huawei MRC. 
 * **01 February 2023:** I have officially started my Summer Internship at the [Huawei Munich Research Center](https://huaweiresearchcentergermanyaustria.teamtailor.com/) in Munich, Germany. I will be working on the [ROSA project](https://www.ietf.org/archive/id/draft-trossen-rtgwg-rosa-02.html) in the Applied Network Technology Laboratory.
 
+---
+
 Academic Service
 ======
 * Pre-Review Task Force for USENIX NSDI'25 (Spring and Fall deadlines)
@@ -36,6 +38,7 @@ Teaching
 * Course organizer for Hot Topics in Data Networks Seminar, Winter Semester 2023
 * Course organizer for Data Networks, Summer Semester 2022
 * TA for Data Networks, Winter Semester 2018/2019
+
 ---
 
 Education
@@ -51,6 +54,7 @@ Professional Experience
 * **Mar. 2018 ‐ Jul. 2018:** Market Research Internship (Global Business Development) ‐ SoftBank Group, Tokyo, Japan
 * **Mar. 2011 ‐ Aug. 2015:** Network Technician (IP/TDM/METRO‐Ethernet Backhauling) ‐ Telecom Namibia, Windhoek, Namibia
 * **Feb. 2010 ‐ Jan. 2011:** Network Systems Internship (Design, Engineering, Planning, and Implementation) ‐ Telecom Namibia, Windhoek, Namibia
+
 ---
 
 Misc.
