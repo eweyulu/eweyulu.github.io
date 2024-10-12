@@ -22,7 +22,7 @@ permalink: /publications/
 
 
 ### 2017
-- **E. Weyulu**, M. Hanada, and M.W. Kim, "Optimizing RTS/CTS to Improve Throughput in Ad Hoc WLANs," *Federated Conference on Computer Science and Information Systems (FedCSIS)*, Prague, Czech Republic. <span style="color:red">**Best Event Paper**</span>*
+- **E. Weyulu**, M. Hanada, and M.W. Kim, "Optimizing RTS/CTS to Improve Throughput in Ad Hoc WLANs," *Federated Conference on Computer Science and Information Systems (FedCSIS)*, Prague, Czech Republic. <span style="color:red">**Best Event Paper**</span>
 
 - S. Hashimoto, **E.N. Weyulu**, K. Hajikano, H. Kanemitsu, and M.W. Kim, "Evaluation of Task Clustering Algorithm by FFT for Heterogeneous Distributed System," *International Conference on Advanced Communication Technology (ICACT)*, PyeongChang, South Korea.
 
