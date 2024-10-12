@@ -10,12 +10,12 @@ redirect_from:
 I am a final-year Ph.D. researcher in Internet transport protocols with the Internet Architecture group at the [Max-Planck-Institut für Informatik](https://www.mpi-inf.mpg.de/home) in Saarbrücken, Germany, advised by [Prof. Anja Feldmann, Ph.D](https://www.mpi-inf.mpg.de/departments/inet/people/anja-feldmann/). I am also affiliated with the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/). My research work focuses on optimizing network transport protocols for efficient data transmission, reduced latency, and enhanced reliability.
 
 I am currently seeking research opportunities to deepen my expertise in networking technologies, particularly in congestion control and flow control for low-latency, high-throughput applications.
----
+
 ---
 
 News
 ======
-* **06 June 2024:** Our paper "BBRv3 in the public Internet: a boon or a bane?" has been accepted to [ANRW '24](https://www.irtf.org/anrw/2024/), check out colleague Danesh's presentation [here](https://www.youtube.com/watch?v=uKxLSAMey7I&ab_channel=IETF-InternetEngineeringTaskForce) at t=38 minutes.
+* **06 June 2024:** Our paper "BBRv3 in the public Internet: a boon or a bane?" has been accepted to [ANRW '24](https://www.irtf.org/anrw/2024/), check out my colleague Danesh's presentation [here](https://www.youtube.com/watch?v=uKxLSAMey7I&ab_channel=IETF-InternetEngineeringTaskForce) at t=38 minutes.
 * **15 April 2024:** Our paper from my Summer Internship at Huawei titled ["Exploring The Benefits of In-Band Service Routing"](https://eweyulu.github.io/files/weyulu-ifip-2024) has been accepted to IFIP Networking 2024, check it out!!
 * **11 March 2024:** Our paper ["Promises and Potential of BBRv3"](https://eweyulu.github.io/files/zeynali-pam2024) won <span style="color:red">**Best Paper Award**</span> at [PAM '24](https://pam2024.cs.northwestern.edu/program/). Congratulations to my co-authors!!
 * **13 December 2023:** Our paper "Promises and Potential of BBRv3" has been accepted to [PAM '24](https://pam2024.cs.northwestern.edu/program/), for more details, check out our [project page](https://inet-bbrv3eval.mpi-inf.mpg.de/). 
