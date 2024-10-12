@@ -16,7 +16,7 @@ main:
 #    url: /year-archive/
 
   - title: "CV"
-    url: /cv/weyulu_emilia_cv.pdf
+    url: /files/weyulu_emilia_cv.pdf
     external: true
     
 #  - title: "Guide"
