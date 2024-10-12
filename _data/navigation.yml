@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-# - title: "Activities"
-#   url: /activities/    
+#  - title: "Activities"
+#    url: /activities/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
@@ -14,9 +14,10 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
- - title: "CV"
-   url: /cv/
+
+  - title: "CV"
+    url: /cv/weyulu_emilia_cv.pdf
+    external: true
     
 #  - title: "Guide"
 #    url: /markdown/
