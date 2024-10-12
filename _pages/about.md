@@ -10,14 +10,7 @@ redirect_from:
 I am a final-year Ph.D. researcher in Internet transport protocols with the Internet Architecture group at the [Max-Planck-Institut für Informatik](https://www.mpi-inf.mpg.de/home) in Saarbrücken, Germany, advised by [Prof. Anja Feldmann, Ph.D](https://www.mpi-inf.mpg.de/departments/inet/people/anja-feldmann/). I am also affiliated with the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/). My research work focuses on optimizing network transport algorithms for efficient data transmission, reduced latency, and enhanced reliability.
 
 I am currently seeking research opportunities to deepen my expertise in networking technologies, particularly in congestion control and flow control for low-latency, high-throughput applications.
-
-Education
-=========
-* **May 2019 - Present:** Ph.D Student at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home)
-* **2018:** MSc. in Informatics, 2018 - [Tokyo University of Information Sciences](https://www.tuis.ac.jp/english/)
-* **2017:** MSc. in Computer Science, 2017 - [Namibia University of Science and Technology](https://www.nust.na/)
-* **2011:** BSc. in Computer Science and Statistics, 2011 - [University of Namibia](https://www.unam.edu.na/)
-
+---
 
 News
 ======
@@ -42,7 +35,14 @@ Teaching
 * Course organizer for Hot Topics in Data Networks Seminar, Winter Semester 2023
 * Course organizer for Data Networks, Summer Semester 2022
 * TA for Data Networks, Winter Semester 2018/2019
+---
 
+Education
+=========
+* **May 2019 - Present:** Ph.D Student at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home)
+* **2018:** MSc. in Informatics, 2018 - [Tokyo University of Information Sciences](https://www.tuis.ac.jp/english/)
+* **2017:** MSc. in Computer Science, 2017 - [Namibia University of Science and Technology](https://www.nust.na/)
+* **2011:** BSc. in Computer Science and Statistics, 2011 - [University of Namibia](https://www.unam.edu.na/)
 
 Professional Experience
 ======
@@ -50,7 +50,7 @@ Professional Experience
 * **Mar. 2018 ‐ Jul. 2018:** Market Research Internship (Global Business Development) ‐ SoftBank Group, Tokyo, Japan
 * **Mar. 2011 ‐ Aug. 2015:** Network Technician (IP/TDM/METRO‐Ethernet Backhauling) ‐ Telecom Namibia, Windhoek, Namibia
 * **Feb. 2010 ‐ Jan. 2011:** Network Systems Internship (Design, Engineering, Planning, and Implementation) ‐ Telecom Namibia, Windhoek, Namibia
-
+---
 
 Misc.
 ======
