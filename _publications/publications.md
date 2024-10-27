@@ -7,10 +7,10 @@ permalink: /publications/
 ### 2024
 - S. Fathalli, **E.N. Weyulu**, D. Zeynali, B. Chandrasekaran, and A. Feldmann, "Network-assisted Congestion Feedback," *Under Submission*.
 
-- D. Zeynali, **E.N. Weyulu**, S. Fathalli, B. Chandrasekaran, and A. Feldmann, "BBRv3 in the Public Internet: A Boon or a Bane?" *Applied Networking Research Workshop (ANRW)*, Vancouver, Canada.
+- D. Zeynali, **E.N. Weyulu**, S. Fathalli, B. Chandrasekaran, and A. Feldmann, ["BBRv3 in the Public Internet: A Boon or a Bane?"](/files/zeynali-anrw2024.pdf) *Applied Networking Research Workshop (ANRW)*, Vancouver, Canada.
 
-- **E.N. Weyulu**, and D. Trossen, "Exploring The Benefits of In-Band Service Routing," *IFIP Networking*, Thessaloniki, Greece.
-- D. Zeynali, **E.N. Weyulu**, S. Fathalli, B. Chandrasekaran, and A. Feldmann, "Promises and Potential of BBRv3," *Passive and Active Measurement Conference (PAM)*, Virtual, USA.  <span style="color:red">**Best Paper Award**</span>
+- **E.N. Weyulu**, and D. Trossen, ["Exploring The Benefits of In-Band Service Routing,"](/files/weyulu-ifip-2024.pdf) *IFIP Networking*, Thessaloniki, Greece.
+- D. Zeynali, **E.N. Weyulu**, S. Fathalli, B. Chandrasekaran, and A. Feldmann, ["Promises and Potential of BBRv3,"](/files/zeynali-pam2024.pdf) *Passive and Active Measurement Conference (PAM)*, Virtual, USA.  <span style="color:red">**Best Paper Award**</span>
 
 
 ### 2019
@@ -18,7 +18,7 @@ permalink: /publications/
 
 
 ### 2018
-- **E. Weyulu**, M. Hanada, H. Kanemitsu, E.C. Park, and M.W. Kim, "Cross-layer Design for Exposed Node Reduction in Ad Hoc WLANs," *IEICE Transactions on Communications*, Tokyo, Japan.
+- **E. Weyulu**, M. Hanada, H. Kanemitsu, E.C. Park, and M.W. Kim, ["Cross-layer Design for Exposed Node Reduction in Ad Hoc WLANs,"](/files/Crosslayerfinalversion.pdf) *IEICE Transactions on Communications*, Tokyo, Japan.
 
 
 ### 2017
