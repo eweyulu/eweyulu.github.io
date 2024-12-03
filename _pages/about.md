@@ -15,6 +15,7 @@ I am currently seeking research opportunities to deepen my expertise in networki
 
 News
 ======
+* **08 November 2024:** I presented our BBR work at the IETF-ICCRG session, which triggered a nice discussion afterwards: Check out my presentation [here](https://www.youtube.com/watch?v=UW-qY_UakG4&ab_channel=IETF-InternetEngineeringTaskForce) at t=16:40.
 * **06 June 2024:** Our paper ["BBRv3 in the public Internet: a boon or a bane?"](/files/zeynali-anrw2024.pdf) has been accepted to [ANRW '24](https://www.irtf.org/anrw/2024/), check out my colleague Danesh's presentation [here](https://www.youtube.com/watch?v=uKxLSAMey7I&ab_channel=IETF-InternetEngineeringTaskForce) at t=38 minutes.
 * **15 April 2024:** Our paper from my Summer Internship at Huawei titled ["Exploring The Benefits of In-Band Service Routing"](/files/weyulu-ifip-2024.pdf) has been accepted to IFIP Networking 2024, check it out!!
 * **11 March 2024:** Our paper ["Promises and Potential of BBRv3"](/files/zeynali-pam2024.pdf) won <span style="color:red">**Best Paper Award**</span> at [PAM '24](https://pam2024.cs.northwestern.edu/program/). Congratulations to my co-authors!!
