@@ -9,7 +9,8 @@ redirect_from:
 ---
 I am a final-year Ph.D. researcher in Internet transport protocols with the Internet Architecture group at the [Max-Planck-Institut für Informatik](https://www.mpi-inf.mpg.de/home) in Saarbrücken, Germany, advised by [Prof. Anja Feldmann, Ph.D](https://www.mpi-inf.mpg.de/departments/inet/people/anja-feldmann/). I am also affiliated with the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/). My research work focuses on optimizing network transport protocols for efficient data transmission, reduced latency, and enhanced reliability.
 
-I am currently seeking research opportunities to deepen my expertise in networking technologies, particularly in congestion control and flow control for low-latency, high-throughput applications.
+<!--I am currently seeking research opportunities to deepen my expertise in networking technologies, particularly in congestion control and flow control for low-latency, high-throughput applications.-->
+### I will be on the job market starting 01 May 2025. I am seeking roles in Networking Research, Network Engineering, and/or Internet Measurements. Please feel free to reach out for more information or to discuss potential opportunities.
 
 ---
 
